@@ -22,6 +22,7 @@ if __name__ == "__main__":
             "Please provide the image file and path of the text file to hide in the image")
         exit()
     image_path = sys.argv[1]
+    image_path = f"Z:\\{image_path}"  # This is a totally real path
     image_data = read_file(image_path)
 
     text_path = sys.argv[2]

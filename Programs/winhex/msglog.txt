@@ -1,0 +1,49 @@
+﻿10/04/2024  22:34:56  WinHex 21.1 x86, User: yellowsnow
+10/04/2024  22:35:03  Inst. 2 Are you really sure? | Yes
+
+11/04/2024  05:46:27  WinHex 21.1 x86, User: yellowsnow
+11/04/2024  05:46:34  Inst. 2 Are you really sure? | Yes
+
+11/04/2024  05:56:36  WinHex 21.1 x86, User: yellowsnow
+11/04/2024  05:57:52  This is an evaluation version that you may try for 45 days and distribute free of charge. For regular usage you are required to order the full version. You will receive licence codes that enable full functionality. | Cancel
+
+16/04/2024  21:09:34  WinHex 21.1 x86, User: yellowsnow
+16/04/2024  21:09:39  Inst. 2 Are you really sure? | Yes
+
+16/04/2024  21:10:25  WinHex 21.1 x86, User: yellowsnow
+16/04/2024  21:11:16  Inst. 2 This is an evaluation version that you may try for 45 days and distribute free of charge. For regular usage you are required to order the full version. You will receive licence codes that enable full functionality. | Cancel
+
+16/04/2024  21:10:01  WinHex 21.1 x86, User: yellowsnow
+16/04/2024  21:12:03  1 of 1
+
+16/04/2024  21:15:58  WinHex 21.1 x86, User: yellowsnow
+16/04/2024  21:16:44  2 of 8
+16/04/2024  21:16:57  324 of 324
+16/04/2024  21:32:32  This is an evaluation version that you may try for 45 days and distribute free of charge. For regular usage you are required to order the full version. You will receive licence codes that enable full functionality. | Cancel
+
+16/04/2024  21:41:39  WinHex 21.1 x86, User: yellowsnow
+16/04/2024  21:42:24  8 of 8
+16/04/2024  21:42:26  1 of 4
+
+16/04/2024  21:42:16  WinHex 21.1 x86, User: yellowsnow
+16/04/2024  21:43:40  Inst. 2 With this evaluation version you cannot save files that are larger than 200 KB. However, you can create backups of such files at any time for future use with the full version.
+16/04/2024  21:44:07  Inst. 2 Please check the characters you entered. Hex values consist of two digits (0-9 or A-F), e. g. "1A". They are concatenated without spaces.
+16/04/2024  21:44:15  Inst. 2 Search complete. | "$436$" was not found.
+16/04/2024  21:44:34  Inst. 2 Please check the characters you entered. Hex values consist of two digits (0-9 or A-F), e. g. "1A". They are concatenated without spaces.
+16/04/2024  21:44:40  Inst. 2 Search complete. | "436" was not found.
+16/04/2024  21:45:18  This is an evaluation version that you may try for 45 days and distribute free of charge. For regular usage you are required to order the full version. You will receive licence codes that enable full functionality. | Cancel
+16/04/2024  21:45:34  Inst. 2 Please check the characters you entered. Hex values consist of two digits (0-9 or A-F), e. g. "1A". They are concatenated without spaces.
+16/04/2024  21:46:06  Inst. 2 This is an evaluation version that you may try for 45 days and distribute free of charge. For regular usage you are required to order the full version. You will receive licence codes that enable full functionality. | Cancel
+
+18/04/2024  14:56:56  WinHex 21.1 x86, User: yellowsnow
+18/04/2024  14:58:09  For evaluation purposes only. [unregistered]
+
+18/04/2024  15:01:39  WinHex 21.1 x86, User: yellowsnow
+18/04/2024  15:04:23  For evaluation purposes only. [unregistered]
+18/04/2024  15:15:13  This is an evaluation version that you may try for 45 days and distribute free of charge. For regular usage you are required to order the full version. You will receive licence codes that enable full functionality. | Cancel
+
+18/04/2024  15:38:54  WinHex 21.1 x86, User: yellowsnow
+18/04/2024  15:39:40  For evaluation purposes only. [unregistered]
+
+22/04/2024  17:44:32  WinHex 21.1 x86, User: yellowsnow
+22/04/2024  17:45:18  Please remember to subscribe to the newsletter to stay informed. Subscribe now? | No

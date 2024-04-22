@@ -6,14 +6,18 @@
 
 ## ExifTools
 ### Add Exif data to images
-`exiftool -config ../config.config -XMP-xmp:SpreadSheetName="employee-2024" -SellRows=20 IMAGE_NAME`
-`exiftool -config ../config.config -XMP-xmp:BuyerId="000000000 IMAGE_NAME`
+`exiftool.exe -config ../config.config -XMP-xmp:SpreadSheetName="employee-2024" -SellRows=20 IMAGE_NAME`
+`exiftool.exe -config ../config.config -XMP-xmp:BuyerId="000000000" IMAGE_NAME`
 
 ### Read Exif data from images
-`exiftool IMAGE_NAME`
+`exiftool.exe IMAGE_NAME`
 
 
 ## Image_steo.py
+> **NOTICE:** <br>
+> Argparse is required to run this script.<br>
+> Install with `pip install argparse`
+
 - Written to make the images used in the scenario
 - Use --image to specify the image to hide the text in (REQUIRED)
 - Can hide either a text file or typed text in the cli using -f:--file or -t:--text respectively
@@ -23,6 +27,9 @@
 ### Writing To Image
 - `python image_steo.py --image START_IMAGE -f TEXT_FILE_TO_HIDE -o IMAGE_OUT_NAME`
 - `python image_steo.py --image START_IMAGE -t "TEXT_TO_HIDE"`
+
+### Retrieving From Image
+- `python image_steo.py -r IMAGE_TO_RETRIEVE`
 
 # Setup
 1. Clone repo

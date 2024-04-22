@@ -10,7 +10,7 @@ def read_file(path: str, mode: str = 'rb'):
     return data
 
 
-def do_work(image_path: str, image_data: str, text_data: str):
+def steganography(image_path: str, image_data: str, text_data: str):
     new_data = image_data + text_data
     with open(image_path, 'wb') as image:
         image.write(new_data)
@@ -28,4 +28,4 @@ if __name__ == "__main__":
     text_data = f"\n{read_file(text_path, mode='r')}"
     text_data = bytes(text_data, 'utf-8')
 
-    do_work(image_path, image_data, text_data)
+    steganography(image_path, image_data, text_data)
